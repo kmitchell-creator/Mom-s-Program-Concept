@@ -1,7 +1,7 @@
 # Mom-s-Program-Concept
 A simple prototype program I made for my mother now sharing.  For learning, suggestions in new programs and so on. 
 
-Welcome and Readme
+Welcome and Readme,
 A short time ago, to practice on my programming skills, and as a gift for my mother,
 I made a simple application called “Mom’s Program”. It’s a Microsoft® .NET
 Framework Application but repurposed. I am now making this available for the public
